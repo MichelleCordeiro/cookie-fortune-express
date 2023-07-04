@@ -51,6 +51,12 @@ O front-end foi desenvolvido com HTML, CSS e JS, e o back-end utilizando o Expre
 - get/post/put/delete
 - fecth-then
 
+<br>
 
+<h3> 📑 Instruções: </h3>
 
+- Front-end
+  - no VS Code abre **index.html** (pasta web) com **open with Live Server**
+- Back-end
+  - terminal executa o comando **node index.js** (pasta server)
 
